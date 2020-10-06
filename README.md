@@ -1,2 +1,2 @@
 # andrewmckeemaths.github.io
-Personal website
+Maths
